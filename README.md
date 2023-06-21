@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Vadim 👋
 
 
 ### Languages and Tools:
+Python, PostgreSQL, AirFlow, Kafka, Spark, Spark Streaming, Hadoop, Pandas, Numpy, Scikit-learn, TensorFlow, Keras, ClickHouse, Vertica, MongoDB,NoSQL YARN, MapReduse, Git, DWH, DataLake, Docker, Kubernetes, Яндекс.Облако, S3, Metabase, Grafana, Matplotlib, Plotly, Seaborn
 
 
 
