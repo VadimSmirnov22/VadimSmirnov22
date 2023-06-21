@@ -1,11 +1,13 @@
 ### Hi there, my name is Vadim 👋
 
 🔭I have 2 years experience as a data engineer and data scientist. 
-<br🌱>I enjoy setup ETL-processes, working with SQL and Python, and finding insights in data using neural networks.
-<br>🎯Believe that every IT specialist should improve and optimize processes.
+<br>🌱I enjoy setup ETL-processes, working with SQL and Python, and finding insights in data using neural networks.
+<br>🙏Believe that every IT specialist should improve and optimize processes.
 <br>⚡ Fun fact: i like data and cats)
 
 💬 Сurrently open to offers
+📫 How to reach me: e8eca156@yandex.by
+
 
 ### Languages and Tools:
 Python, PostgreSQL, AirFlow, Kafka, Spark, Spark Streaming, Hadoop, Pandas, Numpy, Scikit-learn, TensorFlow, Keras, ClickHouse, Vertica, MongoDB,NoSQL YARN, MapReduse, Git, DWH, DataLake, Docker, Kubernetes, Яндекс.Облако, Amazon S3, Metabase, Grafana, Matplotlib, Plotly, Seaborn
