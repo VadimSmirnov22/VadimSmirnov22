@@ -1,7 +1,7 @@
 ### Hi there, my name is Vadim 👋
 
 I have 2 years experience as a data engineer and data scientist. 
-I enjoy setup ETL-processes, working with SQL and Python, and finding insights in data using neural networks.
+<br>I enjoy setup ETL-processes, working with SQL and Python, and finding insights in data using neural networks.
 <br>Believe that every IT specialist should improve and optimize processes.
 <br>⚡ Fun fact: i like data and cats)
 
