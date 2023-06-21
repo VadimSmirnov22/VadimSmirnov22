@@ -6,7 +6,7 @@
 <br>⚡ Fun fact: i like data and cats)
 
 💬 Сurrently open to offers
-📫 How to reach me: e8eca156@yandex.by
+<br>📫 How to reach me: e8eca156@yandex.by
 
 
 ### Languages and Tools:
